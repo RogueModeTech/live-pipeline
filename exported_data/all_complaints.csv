@@ -1,4 +1,5 @@
 complaint,incident_date,county,incident_zip,complaint_type,complaint_description,recieved_date,incident_status_desc,incident_closed_date
+232273,2024-03-08,Caroline,21629,Open Burning,Open burning creating nuisance smoke.,2024-03-11,Under Investigation,
 232264,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
 232263,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
 232262,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
@@ -10,7 +11,7 @@ complaint,incident_date,county,incident_zip,complaint_type,complaint_description
 232253,2024-03-07,Anne Arundel,,Air,Complainant states odors from Stahl Point Road and states Interstate Racing fuels.,2024-03-07,Under Investigation,
 232252,2024-03-06,Anne Arundel,,Air,"Complainant states odor from the Curtis Medical Waste facility, odor by Curtis Creek bridge and odor detected at her house in Tanyard Cove.",2024-03-07,Under Investigation,
 232250,2024-03-06,Anne Arundel,,Air,Chemical paint odor from a Company mixing paint and painting inside Apartment building.,2024-03-07,Incident Closed-No Violation Observed,2024-03-07
-232240,2024-03-03,Wicomico,21804,Open Burning,Open burning branches causing nuisance,2024-03-04,Under Investigation,
+232240,2024-03-03,Wicomico,21804,Open Burning,Open burning branches causing nuisance,2024-03-04,Incident Closed-No Violation Observed,2024-03-06
 232216,2024-03-01,Dorchester,21835,Odor,Odor Complaint,2024-03-01,Incident Closed - No further action,2024-03-01
 232215,2024-03-01,Dorchester,21835,Odor,Odor Complaint,2024-03-01,Incident Closed - No further action,2024-03-01
 232214,2024-02-26,Dorchester,21835,Odor,Odor Complaint,2024-02-26,Incident Closed - No further action,2024-02-26
