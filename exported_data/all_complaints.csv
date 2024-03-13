@@ -1,4 +1,41 @@
 complaint,incident_date,county,incident_zip,complaint_type,complaint_description,recieved_date,incident_status_desc,incident_closed_date
+232323,2024-03-11,Anne Arundel,,Air,odor,2024-03-11,Under Investigation,
+232322,2024-03-11,Anne Arundel,,Air,feces and trash odors,2024-03-11,Under Investigation,
+232321,2024-03-11,Anne Arundel,,Air,odor,2024-03-11,Under Investigation,
+232320,2024-03-08,Anne Arundel,,Air,odor,2024-03-08,Under Investigation,
+232319,2024-03-08,Anne Arundel,,Air,odor,2024-03-12,Under Investigation,
+232316,2024-03-08,Anne Arundel,,Air,odor from steam/gas from mulch pile,2024-03-08,Under Investigation,
+232315,2024-03-08,Anne Arundel,,Air,dead fish odor,2024-03-08,Under Investigation,
+232314,2024-03-07,Anne Arundel,,Air,dead animal odor,2024-03-07,Under Investigation,
+232313,2024-03-07,Anne Arundel,,Air,gaseous/rotting seafood odor,2024-03-07,Under Investigation,
+232312,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232311,2024-03-07,Anne Arundel,,Air,rotten fish odor,2024-03-07,Under Investigation,
+232309,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232308,2024-03-07,Anne Arundel,,Air,decaying odor,2024-03-07,Under Investigation,
+232307,2024-03-07,Anne Arundel,,Air,old garbage odor,2024-03-07,Under Investigation,
+232306,2024-03-07,Anne Arundel,,Air,Fish odors,2024-03-07,Under Investigation,
+232305,2024-03-07,Anne Arundel,,Air,sewage odor,2024-03-07,Under Investigation,
+232304,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232303,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232302,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232301,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232300,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232299,2024-03-07,Anne Arundel,,Air,garbage/fish odor,2024-03-07,Under Investigation,
+232298,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232296,2024-03-07,Anne Arundel,,Air,foul odor,2024-03-07,Under Investigation,
+232295,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232291,2024-03-07,Anne Arundel,,Air,Odor from the Curtis Creek area,2024-03-07,Under Investigation,
+232290,2024-03-07,Anne Arundel,,Air,odor from Curtis Bay Medical Waste,2024-03-07,Under Investigation,
+232289,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232288,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232287,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
+232286,2024-03-06,Anne Arundel,,Air,fish odor,2024-03-06,Under Investigation,
+232285,2024-03-06,Anne Arundel,,Air,rotting fish odor,2024-03-06,Under Investigation,
+232284,2024-03-06,Anne Arundel,,Air,Foul odor,2024-03-06,Under Investigation,
+232281,2024-03-08,Anne Arundel,,Air,HVAC and mold odors inside his apartment complex.,2024-03-12,Incident Closed-No Violation Observed,2024-03-12
+232280,2024-03-08,Frederick,,Air,Odor from flare burn off gases at the water treatment plant.,2024-03-12,Under Investigation,
+232279,2024-03-07,Anne Arundel,,Air,Plastic containers in his backyard are melting and believed to be from chemical releases from the airplanes.,2024-03-12,Incident Closed-No Violation Observed,2024-03-12
+232278,2024-03-07,Anne Arundel,,Air,Odors from smokers detected in her apartment.,2024-03-12,Incident Closed-No Violation Observed,2024-03-12
 232273,2024-03-08,Caroline,21629,Open Burning,Open burning creating nuisance smoke.,2024-03-11,Under Investigation,
 232264,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
 232263,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
@@ -17,14 +54,14 @@ complaint,incident_date,county,incident_zip,complaint_type,complaint_description
 232214,2024-02-26,Dorchester,21835,Odor,Odor Complaint,2024-02-26,Incident Closed - No further action,2024-02-26
 232205,2024-02-29,Carroll,,"Air, Smoke",Neighbor's fireplace is producing large amounts of smoke. Smoke enters into home and onto property. Concerned due to existing health issues.,2024-02-29,Referred to Outside Agency,
 232204,2024-02-28,Prince George's,,Other,Concern of loud boom noise in the Cheverly area,2024-02-28,Incident Closed-Managed,2024-03-01
-232203,2024-03-01,Anne Arundel,,Air,Complainant describes a foul dead animal odor detected today.  She noticed odor at 8:45am when going outside and still lasting beyond notifying the Department today.,2024-03-01,Under Investigation,
+232203,2024-03-01,Anne Arundel,21090,Air,Complainant describes a foul dead animal odor detected today.  She noticed odor at 8:45am when going outside and still lasting beyond notifying the Department today.,2024-03-01,Incident Closed-No Violation Observed,2024-03-08
 232193,2024-02-27,Prince George's,20735,Other,Concern of neighbor painting cars,2024-02-27,Incident Closed-Managed,2024-02-28
 232191,2024-02-28,Frederick,,Air,Dust from sandblasting vehicles.  Permit for sandblasting vehicles and dust control equipment remains outstanding issues.,2024-02-28,Referred to Attorney General's Office,
 232190,2024-02-28,Charles,,Air,Overspray.  Second complaint received.  No filters on exhaust.,2024-02-28,Under Investigation,
 232188,2024-02-26,,21226,Smoke,Black smoke coming from the facility,2024-02-27,Under Investigation,
 232187,2024-02-27,Anne Arundel,21403,Air,Complainant detects smoke odor from firepit at 1158 Bay Highlands Drive.  The police and the fire department have responded to his calls.  The authorities advised him to seek medical attention if his throat was hurting.,2024-02-27,Incident Closed-No Violation Observed,2024-02-28
 232186,2024-02-26,Anne Arundel,21226,Odor,Odor Complaint,2024-02-26,Incident Closed - No further action,2024-02-26
-232176,2024-02-26,Anne Arundel,,Air,Hydrogen sulfide odor,2024-02-26,Under Investigation,
+232176,2024-02-26,Anne Arundel,,Air,Hydrogen sulfide odor,2024-02-26,Incident Closed-Managed,2024-03-08
 232175,2024-02-23,Anne Arundel,,Air,smoke odor,2024-02-23,Incident Closed-No Violation Observed,2024-02-27
 232169,2024-02-22,Anne Arundel,21122,Air,Apartment renovations next door to her unit.  All appliances and interior fixtures removed.  Concern of asbestos.  Complainant detected an industrial odor.,2024-02-22,Incident Closed-No Violation Observed,2024-02-23
 222175,2024-02-20,Montgomery,20788,"Air, Other",Drywall dust coming into apartment unit from HVAC system. Causing severe respiratory health problems.,2024-02-20,Referred to Outside Agency,
