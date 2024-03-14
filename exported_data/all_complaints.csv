@@ -1,4 +1,9 @@
 complaint,incident_date,county,incident_zip,complaint_type,complaint_description,recieved_date,incident_status_desc,incident_closed_date
+232331,2024-03-12,Montgomery,20879,"Air, Other",Concerns regarding lead content in small aircraft fuel. House is in flight path of Montgomery Air Park. Believes that lead in the aircraft fuel is killing trees on property. Also concerned with lead build up in soil and possible health effects.,2024-03-12,Incident Closed-Managed,2024-03-13
+232330,2024-03-13,Carroll,,"Air, Air Pollutant Release",Individual observed releasing refrigerants into atmosphere. Offender was observed doing this multiple times.,2024-03-13,Incident Closed-Managed,2024-03-13
+232326,2023-12-10,Allegany,21502,Smoke,Smoke from Manufacturing Machine,2024-03-06,Under Investigation,
+232325,2024-03-12,Frederick,21757,Air,Dust from sandblasting vehicles without dust control equipment and no permit.  Dust going onto complainant's property and personal vehicles.,2024-03-12,Referred to Attorney General's Office,
+232324,2024-03-11,Frederick,21757,Air,Dust from sand blasting vehicles crossing the property line and getting onto his personal cars and house.,2024-03-11,Referred to Attorney General's Office,
 232323,2024-03-11,Anne Arundel,,Air,odor,2024-03-11,Under Investigation,
 232322,2024-03-11,Anne Arundel,,Air,feces and trash odors,2024-03-11,Under Investigation,
 232321,2024-03-11,Anne Arundel,,Air,odor,2024-03-11,Under Investigation,
@@ -36,7 +41,7 @@ complaint,incident_date,county,incident_zip,complaint_type,complaint_description
 232280,2024-03-08,Frederick,,Air,Odor from flare burn off gases at the water treatment plant.,2024-03-12,Under Investigation,
 232279,2024-03-07,Anne Arundel,,Air,Plastic containers in his backyard are melting and believed to be from chemical releases from the airplanes.,2024-03-12,Incident Closed-No Violation Observed,2024-03-12
 232278,2024-03-07,Anne Arundel,,Air,Odors from smokers detected in her apartment.,2024-03-12,Incident Closed-No Violation Observed,2024-03-12
-232273,2024-03-08,Caroline,21629,Open Burning,Open burning creating nuisance smoke.,2024-03-11,Under Investigation,
+232273,2024-03-08,Caroline,21629,Open Burning,Open burning creating nuisance smoke.,2024-03-11,Incident Closed-No Violation Observed,2024-03-13
 232264,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
 232263,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
 232262,2024-03-06,Prince George's,,Other,concern of loud noise in the Cheverly area,2024-03-06,Incident Closed-Managed,2024-03-08
