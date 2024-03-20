@@ -1,6 +1,11 @@
 complaint,incident_date,county,incident_zip,complaint_type,complaint_description,recieved_date,incident_status_desc,incident_closed_date
-232359,2024-03-14,Montgomery,20850,"Air, Fumes, Smoke",Concerns regarding the oil tank fire at the Rockville F.O. Day asphalt plant. Would like to know safety of outdoor air and status of situation.,2024-03-14,Incident Closed-Managed,2024-03-18
-232358,2024-03-14,Montgomery,20850,"Air, Fumes, Smoke",Concerns regarding the oil tank fire at the Rockville F.O. Day asphalt plant. Would like to know safety of outdoor air and status of situation.,2024-03-14,Incident Closed-Managed,2024-03-18
+232365,2024-03-19,Carroll,21776,"Air, Open Burning, Smoke",Large open burns associated with land clearing activities. Causing large amounts of smoke.,2024-03-19,Referred to Outside Agency,
+232364,2024-03-14,Cecil,,"Air, Fumes, Odor, Smoke","Concerned with various environmental health issues in North East, Cecil County, including open burn smoke, manure odors, unknown ""licorice"" odor, unknown sulfur odor, and possible PFAS in well water.",2024-03-14,Referred to Outside Agency,
+232363,2024-03-14,Montgomery,20850,"Air, Smoke, Vapor Release",Concerns regarding the oil tank fire at the Rockville F.O. Day asphalt plant. Would like to know safety of outdoor air and status of situation.,2024-03-19,Incident Closed-Managed,2024-03-19
+232361,2024-03-17,Anne Arundel,,Air,"Complainant states a strong, waste odor seems to be coming from the Curtis Bay Soil facility and the odor is detected in his Tanyard Cove neighborhood.",2024-03-17,Under Investigation,
+232360,2024-03-17,Anne Arundel,,Air,Rotten fish odor,2024-03-17,Under Investigation,
+232359,2024-03-14,Montgomery,20850,"Air, Fumes, Smoke",Concerns regarding the oil tank fire at the Rockville F.O. Day asphalt plant. Would like to know safety of outdoor air and status of situation.,2024-03-14,Incident Closed-Managed,2024-03-19
+232358,2024-03-14,Montgomery,20850,"Air, Fumes, Smoke",Concerns regarding the oil tank fire at the Rockville F.O. Day asphalt plant. Would like to know safety of outdoor air and status of situation.,2024-03-14,Incident Closed-Managed,2024-03-19
 232354,2024-03-16,Prince George's,,Other,concern of loud boom noise in the Cheverly area,2024-03-16,Incident Closed-Managed,2024-03-18
 232353,2024-03-16,Prince George's,,Other,concern of loud boom noise in the Cheverly area,2024-03-16,Incident Closed-Managed,2024-03-18
 232351,2024-03-13,Prince George's,,Other,Concern of strong odor in the Cheverly  area,2024-03-13,Incident Closed-Managed,2024-03-18
@@ -261,7 +266,7 @@ Report of Smoke coming from Curtis Bay Energy.  Photos and video sent.",2024-01-
 191739,2023-11-13,Anne Arundel,21225,Air,Odors from vapors entering his house.,2023-11-13,Incident Not Applicable to MDE,
 191738,2023-11-12,Anne Arundel,,Air,Smoke and odor from burning leaves in front yard firepit.,2023-11-14,Under Investigation,
 191737,2023-11-11,Frederick,21701,Air,Smoke and odor from neighbor's operating large ceramic pottery kilns.,2023-11-11,Incident Closed-Managed,2023-11-14
-191736,2023-11-07,Washington,21740,"Fugitive Dust/Particulate Matter, Smoke",Dust and Smoke,2023-11-07,Under Investigation,
+191736,2023-11-07,Washington,21740,"Fugitive Dust/Particulate Matter, Smoke",Dust and Smoke,2023-11-07,Incident Closed-Managed,2024-03-19
 191735,2023-11-08,Anne Arundel,21122,Air,Smoke from burning leaves.  Close to her house.,2023-11-08,Incident Closed - No further action,2023-11-14
 191731,2023-11-10,Anne Arundel,,Air,"Trashy, swampy odor.  Complainant mentioned composting facility located on Quarantine Road, 21226",2023-11-13,Under Investigation,
 191730,2023-11-10,Anne Arundel,,Air,"Trashy, swampy odor",2023-11-13,Under Investigation,
@@ -485,7 +490,7 @@ Report of Smoke coming from Curtis Bay Energy.  Photos and video sent.",2024-01-
 161101,2023-06-07,Dorchester,21664,Fugitive Dust/Particulate Matter,Paint chips on property from prepping water tower to be painted.,2023-06-07,Incident Closed-Managed,2023-06-08
 161093,2023-06-07,Frederick,,Air,Dust from sand blasting and overspray from spray painting.  Dust crosses property line.,2023-06-08,Under Investigation,
 161092,2023-06-05,Frederick,,Air,Sticky substance on her car windshield.,2023-06-08,Incident Closed - No further action,2023-06-08
-161089,2023-05-10,Washington,21740,Fugitive Dust/Particulate Matter,Dust At Concrete Plant,2023-05-19,Under Investigation,
+161089,2023-05-10,Washington,21740,Fugitive Dust/Particulate Matter,Dust At Concrete Plant,2023-05-19,Incident Closed-No Violation Observed,2024-03-19
 161086,2023-05-17,Allegany,21539,Non-Tidal Wetlands/Waterway,Garbage in Stream,2023-05-17,Incident Closed - No further action,2023-06-08
 161081,2023-06-01,Baltimore City,,Odor,He smells an industrial odor in the residential neighborhood.,2023-06-01,Incident Closed-Managed,2023-06-07
 161080,2023-05-31,Baltimore City,,Odor,He smells an industrial odor in the residential neighborhood.,2023-05-31,Incident Closed-Managed,2023-06-07
