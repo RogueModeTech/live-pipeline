@@ -1,4 +1,7 @@
 complaint,incident_date,county,incident_zip,complaint_type,complaint_description,recieved_date,incident_status_desc,incident_closed_date
+232372,2024-02-16,Baltimore City,,Odor,Paint odors are coming from a business.,2024-02-16,Incident Closed-Managed,2024-03-20
+232371,2024-02-12,Baltimore City,,Odor,There is a sulfur like odor in his home.,2024-02-12,Incident Closed-Managed,2024-03-20
+232369,2024-03-19,Anne Arundel,21401,Air,Interior remodeling inside apartment.,2024-03-19,Incident Closed-No Violation Observed,2024-03-20
 232365,2024-03-19,Carroll,21776,"Air, Open Burning, Smoke",Large open burns associated with land clearing activities. Causing large amounts of smoke.,2024-03-19,Referred to Outside Agency,
 232364,2024-03-14,Cecil,,"Air, Fumes, Odor, Smoke","Concerned with various environmental health issues in North East, Cecil County, including open burn smoke, manure odors, unknown ""licorice"" odor, unknown sulfur odor, and possible PFAS in well water.",2024-03-14,Referred to Outside Agency,
 232363,2024-03-14,Montgomery,20850,"Air, Smoke, Vapor Release",Concerns regarding the oil tank fire at the Rockville F.O. Day asphalt plant. Would like to know safety of outdoor air and status of situation.,2024-03-19,Incident Closed-Managed,2024-03-19
