@@ -1,4 +1,8 @@
 complaint,incident_date,county,incident_zip,complaint_type,complaint_description,recieved_date,incident_status_desc,incident_closed_date
+232384,2024-02-28,Baltimore City,,Odor,He smells an industrial odor in the residential neighborhood.,2024-02-28,Incident Closed-Managed,2024-03-21
+232383,2024-02-28,Baltimore City,,Fugitive Dust/Particulate Matter,There is dust from a concrete plant coming on business property.,2024-02-28,Incident Closed-Managed,2024-03-21
+232382,2024-02-22,Baltimore City,,Odor,There is a strong garbage odor at Curtis Bay landfill.,2024-02-22,Incident Closed-Managed,2024-03-21
+232374,2024-03-21,Charles,20637,Air,Smoke from the sawmill burning unknown items.  Complainant states that the Charles County Health Dept.  has responded at the site.  Complainant's property in a different zip code than the sawmill location.,2024-03-21,Under Investigation,
 232372,2024-02-16,Baltimore City,,Odor,Paint odors are coming from a business.,2024-02-16,Incident Closed-Managed,2024-03-20
 232371,2024-02-12,Baltimore City,,Odor,There is a sulfur like odor in his home.,2024-02-12,Incident Closed-Managed,2024-03-20
 232369,2024-03-19,Anne Arundel,21401,Air,Interior remodeling inside apartment.,2024-03-19,Incident Closed-No Violation Observed,2024-03-20
