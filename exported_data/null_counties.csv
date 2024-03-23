@@ -1,13 +1,13 @@
-,sno,complaint,complaint_description,complaint_type,recieved_date,incident_date,county,incident_closed_date,incident_status_desc,incident_zip
-85,86,232188,Black smoke coming from the facility,['Smoke'],2024-02-27,2024-02-26,,,Under Investigation,21226
-92,93,222174,Black smoke observed coming from the roof of Curtis Bay Energy.  Video of incident was sent.,['Smoke'],2024-02-22,2024-02-21,,,Under Investigation,21226
-110,111,222121,Smoke from Curtis Bay Energy,['Smoke'],2024-02-06,2024-02-06,,,Under Investigation,21226
-130,131,222085,"2024-0063
-Black smoke coming from Curtis Bay Energy.  Photo sent.",['Smoke'],2024-02-06,2024-02-06,,,Under Investigation,21226
-131,132,222084,"2024-0046
+,sno,complaint,complaint_description,complaint_type,recieved_date,incident_date,county,incident_status_desc,incident_zip,incident_closed_date
+98,99,232188,Black smoke coming from the facility,['Smoke'],2024-02-27,2024-02-26,,Under Investigation,21226,
+105,106,222174,Black smoke observed coming from the roof of Curtis Bay Energy.  Video of incident was sent.,['Smoke'],2024-02-22,2024-02-21,,Under Investigation,21226,
+123,124,222121,Smoke from Curtis Bay Energy,['Smoke'],2024-02-06,2024-02-06,,Under Investigation,21226,
+143,144,222085,"2024-0063
+Black smoke coming from Curtis Bay Energy.  Photo sent.",['Smoke'],2024-02-06,2024-02-06,,Under Investigation,21226,
+144,145,222084,"2024-0046
 2024-0047
-Report of Smoke coming from Curtis Bay Energy.  Photos and video sent.",['Smoke'],2024-01-26,2024-01-26,,,Under Investigation,21226
-153,154,222010,Black and gray smoke coming from Wheelabrator Stack,['Smoke'],2024-01-03,2024-01-03,,2024-01-24,Incident Closed-Managed,21230
-154,155,222009,Smoke coming out of the building,['Smoke'],2024-01-24,2024-01-24,,,Under Investigation,21226
-155,156,222008,Air smelt like burning rubber.  Smoke coming from Curtis Bay Medical waste.,"['Odor', 'Smoke']",2024-01-16,2024-01-13,,,Under Investigation,21226
-156,157,222007,Plumes of black smoke coming from the facility.,['Smoke'],2024-01-05,2024-01-05,,,Under Investigation,21226
+Report of Smoke coming from Curtis Bay Energy.  Photos and video sent.",['Smoke'],2024-01-26,2024-01-26,,Under Investigation,21226,
+166,167,222010,Black and gray smoke coming from Wheelabrator Stack,['Smoke'],2024-01-03,2024-01-03,,Incident Closed-Managed,21230,2024-01-24
+167,168,222009,Smoke coming out of the building,['Smoke'],2024-01-24,2024-01-24,,Under Investigation,21226,
+168,169,222008,Air smelt like burning rubber.  Smoke coming from Curtis Bay Medical waste.,"['Odor', 'Smoke']",2024-01-16,2024-01-13,,Under Investigation,21226,
+169,170,222007,Plumes of black smoke coming from the facility.,['Smoke'],2024-01-05,2024-01-05,,Under Investigation,21226,
