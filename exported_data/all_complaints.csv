@@ -68,9 +68,9 @@ complaint,incident_date,county,incident_zip,complaint_type,complaint_description
 232289,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
 232288,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
 232287,2024-03-07,Anne Arundel,,Air,odor,2024-03-07,Under Investigation,
-232286,2024-03-06,Anne Arundel,,Air,fish odor,2024-03-06,Under Investigation,
-232285,2024-03-06,Anne Arundel,,Air,rotting fish odor,2024-03-06,Under Investigation,
-232284,2024-03-06,Anne Arundel,,Air,Foul odor,2024-03-06,Under Investigation,
+232286,2024-03-06,Anne Arundel,,Air,fish odor,2024-03-06,Incident Closed-Managed,2024-03-22
+232285,2024-03-06,Anne Arundel,,Air,rotting fish odor,2024-03-06,Incident Closed-Managed,2024-03-22
+232284,2024-03-06,Anne Arundel,,Air,Foul odor,2024-03-06,Incident Closed-Managed,2024-03-22
 232281,2024-03-08,Anne Arundel,,Air,HVAC and mold odors inside his apartment complex.,2024-03-12,Incident Closed-No Violation Observed,2024-03-12
 232280,2024-03-08,Frederick,,Air,Odor from flare burn off gases at the water treatment plant.,2024-03-12,Under Investigation,
 232279,2024-03-07,Anne Arundel,,Air,Plastic containers in his backyard are melting and believed to be from chemical releases from the airplanes.,2024-03-12,Incident Closed-No Violation Observed,2024-03-12
